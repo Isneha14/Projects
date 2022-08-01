@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.Upper {
+  padding: 10px;
+  margin-bottom: 25px;
+}
+
+.BtnBody{
+  padding: 0px;
+  background-color: #283D4A;
+  margin-bottom: 25px;
+  width: 100%;
+}
+
+.Mag{
+  width: 100%;
+  padding-top: 25px;
+  margin-right: 0px;
+}
+
